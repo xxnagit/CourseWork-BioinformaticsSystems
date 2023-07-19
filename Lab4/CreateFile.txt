@@ -1,0 +1,3 @@
+Create a text [2] Read the text and determine which words
+were in the text, and then output a list giving the words and their
+    locations within the text.
