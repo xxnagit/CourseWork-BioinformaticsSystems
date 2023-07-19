@@ -1,0 +1,3 @@
+"r_status"          "r_mean"          "r_median"
+0          1105          841
+1          441          138
